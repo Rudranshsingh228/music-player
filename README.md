@@ -11,6 +11,7 @@ A simple and elegant music player built with HTML, CSS, and JavaScript. This mus
 - [Technologies](#technologies)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Demo
 You can see a live demo of the Music Player 
