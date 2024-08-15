@@ -48,9 +48,8 @@ To get a local copy up and running, follow these steps:
 - `index.html`: The main HTML file containing the structure of the music player.
 - `style.css`: The CSS file that styles the music player.
 - `script.js`: The JavaScript file that adds functionality to the music player.
-- `assets/`: The directory containing music and photo files.
-  - `assets/music/`: Contains all music files.
-  - `assets/photos/`: Contains all album art and photo files.
+- `music/`: Contains all music files.
+- `photos/`: Contains all album art and photo files.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
